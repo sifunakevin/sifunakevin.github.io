@@ -1,0 +1,36 @@
+*{
+margin-top: 3px;
+padding: 0px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: #ffe4c4;
+}
+.header img{
+    text-align: center;
+    
+}
+ul{
+    float: right;
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+    padding: 3px;
+}
+ul li a{
+    text-decoration: none;
+    color: green;
+    padding: 3px 5px;
+    border: transparent;
+    transform: 0.6 ease;
+}
+ul li a:hover{
+    background-color:burlywood;
+    color: brown;
+}
+h1{
+    text-align: center;
+     margin: 50px;
+}
+.container-fluid{
+    text-align: center;
+}
